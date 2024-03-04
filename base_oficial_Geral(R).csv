@@ -1,0 +1,200 @@
+Sexo,AnoEscolar,Serie,Disciplinas,Semestre,ParticipacaoAtivaSalaDeAula,UsoMaterialEscolar,SatisfacaoEscolar,Faltas
+M,EnsinoMedio,TerceiroAnoEM,Historia,Primeiro,15,Sim,Bom,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Historia,Primeiro,20,Sim,Bom,Acima-15
+M,EnsinoFundamental,SextoAnoF,Historia,Primeiro,10,Sim,Ruim,Abaixo-15
+M,EnsinoFundamental,SextoAnoF,Historia,Primeiro,30,Sim,Ruim,Abaixo-15
+M,EnsinoFundamental,SextoAnoF,Historia,Primeiro,40,Sim,Ruim,Abaixo-15
+F,EnsinoFundamental,SextoAnoF,Historia,Primeiro,42,Sim,Ruim,Abaixo-15
+M,EnsinoFundamental,SextoAnoF,Matematica,Primeiro,35,Sim,Ruim,Abaixo-15
+M,EnsinoFundamental,SextoAnoF,Matematica,Primeiro,50,Sim,Bom,Acima-15
+F,EnsinoFundamental,SextoAnoF,Matematica,Primeiro,12,Sim,Bom,Acima-15
+F,EnsinoFundamental,SextoAnoF,Historia,Primeiro,70,Sim,Bom,Acima-15
+M,EnsinoFundamental,SextoAnoF,Matematica,Primeiro,50,Sim,Bom,Acima-15
+M,EnsinoFundamental,SextoAnoF,Matematica,Primeiro,19,Nao,Bom,Acima-15
+M,EnsinoFundamental,SextoAnoF,Historia,Primeiro,5,Nao,Ruim,Abaixo-15
+M,EnsinoFundamental,SextoAnoF,Matematica,Primeiro,20,Sim,Ruim,Abaixo-15
+F,EnsinoFundamental,SextoAnoF,Matematica,Primeiro,62,Nao,Ruim,Abaixo-15
+F,EnsinoFundamental,SextoAnoF,Historia,Primeiro,30,Sim,Bom,Acima-15
+M,EnsinoFundamental,SextoAnoF,Historia,Primeiro,36,Nao,Ruim,Abaixo-15
+M,EnsinoFundamental,SextoAnoF,Matematica,Primeiro,55,Nao,Ruim,Abaixo-15
+F,EnsinoFundamental,SextoAnoF,Geografia,Primeiro,69,Sim,Bom,Acima-15
+M,EnsinoFundamental,SextoAnoF,Geografia,Primeiro,70,Sim,Bom,Acima-15
+F,EnsinoFundamental,SextoAnoF,Geografia,Primeiro,60,Sim,Mediano,Abaixo-15
+F,EnsinoFundamental,SextoAnoF,Geografia,Primeiro,10,Sim,Mediano,Acima-15
+M,EnsinoFundamental,SextoAnoF,Geografia,Primeiro,15,Nao,Mediano,Acima-15
+M,EnsinoFundamental,SextoAnoF,Geografia,Primeiro,2,Nao,Mediano,Abaixo-15
+M,EnsinoFundamental,SextoAnoF,Geografia,Primeiro,0,Sim,Bom,Abaixo-15
+M,EnsinoFundamental,SextoAnoF,Geografia,Primeiro,8,Nao,Bom,Abaixo-15
+M,EnsinoFundamental,SetimoAnoF,Geografia,Primeiro,19,Sim,Ruim,Acima-15
+M,EnsinoFundamental,SetimoAnoF,Ensino Religioso,Primeiro,25,Nao,Ruim,Abaixo-15
+M,EnsinoFundamental,SetimoAnoF,Ciencias,Primeiro,75,Sim,Bom,Acima-15
+F,EnsinoFundamental,SetimoAnoF,Ensino Religioso,Primeiro,30,Sim,Mediano,Acima-15
+F,EnsinoFundamental,SetimoAnoF,Ensino Religioso,Primeiro,35,Sim,Bom,Acima-15
+M,EnsinoFundamental,SetimoAnoF,Geografia,Primeiro,4,Nao,Bom,Abaixo-15
+F,EnsinoFundamental,SetimoAnoF,Geografia,Primeiro,2,Nao,Bom,Abaixo-15
+M,EnsinoFundamental,SetimoAnoF,Lingua Estrangeira,Primeiro,8,Nao,Mediano,Abaixo-15
+M,EnsinoFundamental,SetimoAnoF,Ciencias,Primeiro,12,Sim,Mediano,Abaixo-15
+M,EnsinoFundamental,SetimoAnoF,Lingua Estrangeira,Primeiro,10,Sim,Mediano,Abaixo-15
+M,EnsinoFundamental,SetimoAnoF,Ciencias,Primeiro,8,Sim,Bom,Abaixo-15
+F,EnsinoFundamental,SetimoAnoF,Geografia,Primeiro,45,Nao,Bom,Acima-15
+M,EnsinoFundamental,SetimoAnoF,Geografia,Primeiro,0,Sim,Ruim,Abaixo-15
+F,EnsinoFundamental,SetimoAnoF,Ciencias,Primeiro,50,Nao,Bom,Acima-15
+F,EnsinoFundamental,SetimoAnoF,Geografia,Primeiro,14,Sim,Ruim,Abaixo-15
+M,EnsinoFundamental,SetimoAnoF,Geografia,Primeiro,19,Nao,Bom,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Geografia,Primeiro,10,Nao,Bom,Abaixo-15
+F,EnsinoMedio,SegundoAnoEM,Geografia,Primeiro,30,Sim,Bom,Acima-15
+F,EnsinoMedio,SegundoAnoEM,Geografia,Primeiro,33,Nao,Ruim,Acima-15
+M,EnsinoFundamental,SetimoAnoF,Artes,Primeiro,20,Nao,Bom,Abaixo-15
+M,EnsinoFundamental,SetimoAnoF,Lingua Estrangeira,Primeiro,7,Sim,Ruim,Abaixo-15
+F,EnsinoMedio,PrimeiroAnoEM,Lingua Estrangeira,Primeiro,70,Sim,Bom,Acima-15
+F,EnsinoMedio,PrimeiroAnoEM,Lingua Estrangeira,Primeiro,13,Sim,Bom,Acima-15
+F,EnsinoMedio,PrimeiroAnoEM,Lingua Estrangeira,Primeiro,29,Nao,Bom,Acima-15
+F,EnsinoMedio,PrimeiroAnoEM,Lingua Estrangeira,Primeiro,20,Sim,Ruim,Abaixo-15
+M,EnsinoMedio,PrimeiroAnoEM,Lingua Estrangeira,Primeiro,39,Nao,Bom,Abaixo-15
+F,EnsinoMedio,PrimeiroAnoEM,Lingua Estrangeira,Primeiro,55,Sim,Ruim,Acima-15
+F,EnsinoMedio,PrimeiroAnoEM,Ciencias,Primeiro,49,Nao,Bom,Acima-15
+M,EnsinoMedio,PrimeiroAnoEM,Lingua Estrangeira,Primeiro,12,Sim,Ruim,Abaixo-15
+M,EnsinoFundamental,SetimoAnoF,Matematica,Primeiro,16,Nao,Bom,Abaixo-15
+M,EnsinoFundamental,SetimoAnoF,Matematica,Primeiro,19,Sim,Bom,Abaixo-15
+M,EnsinoFundamental,SetimoAnoF,Matematica,Primeiro,5,Nao,Bom,Abaixo-15
+M,EnsinoFundamental,OitavoAnoF,Matematica,Primeiro,28,Sim,Bom,Acima-15
+F,EnsinoFundamental,OitavoAnoF,Matematica,Primeiro,27,Nao,Bom,Acima-15
+F,EnsinoFundamental,OitavoAnoF,Lingua Estrangeira,Primeiro,21,Nao,Bom,Abaixo-15
+M,EnsinoMedio,SegundoAnoEM,Geografia,Primeiro,50,Sim,Bom,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Geografia,Primeiro,80,Nao,Bom,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Geografia,Primeiro,17,Sim,Mediano,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Geografia,Primeiro,0,Nao,Mediano,Abaixo-15
+M,EnsinoMedio,SegundoAnoEM,Lingua Estrangeira,Primeiro,13,Sim,RuimMediano,Abaixo-15
+F,EnsinoMedio,SegundoAnoEM,Lingua Estrangeira,Primeiro,25,Nao,Mediano,Abaixo-15
+F,EnsinoMedio,SegundoAnoEM,Lingua Estrangeira,Primeiro,65,Sim,Bom,Acima-15
+F,EnsinoMedio,SegundoAnoEM,Geografia,Primeiro,70,Sim,Bom,Acima-15
+M,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,39,Sim,Mediano,Acima-15
+M,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,22,Sim,Bom,Abaixo-15
+M,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,29,Nao,Bom,Acima-15
+M,EnsinoFundamental,OitavoAnoF,Matematica,Primeiro,11,Nao,Mediano,Acima-15
+F,EnsinoFundamental,OitavoAnoF,Lingua Estrangeira,Primeiro,19,Nao,Mediano,Abaixo-15
+M,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,12,Sim,Mediano,Acima-15
+M,EnsinoFundamental,OitavoAnoF,Lingua Estrangeira,Primeiro,50,Nao,Bom,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Geografia,Primeiro,15,Sim,Bom,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Geografia,Primeiro,20,Nao,Bom,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Lingua Estrangeira,Primeiro,13,Nao,Mediano,Abaixo-15
+F,EnsinoFundamental,OitavoAnoF,Matematica,Primeiro,80,Nao,Mediano,Acima-15
+M,EnsinoFundamental,OitavoAnoF,Matematica,Primeiro,8,Nao,Mediano,Acima-15
+M,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,8,Sim,Mediano,Abaixo-15
+M,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,7,Nao,Bom,Abaixo-15
+M,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,7,Nao,Bom,Abaixo-15
+M,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,50,Nao,Bom,Abaixo-15
+M,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,1,Nao,Ruim,Abaixo-15
+M,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,70,Sim,Bom,Acima-15
+M,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,19,Nao,Ruim,Acima-15
+F,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,3,Sim,Ruim,Acima-15
+M,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,5,Nao,Bom,Abaixo-15
+M,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,4,Sim,Bom,Abaixo-15
+M,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,80,Nao,Bom,Acima-15
+F,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,50,Sim,Bom,Acima-15
+M,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,55,Nao,Bom,Acima-15
+F,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,80,Nao,Bom,Abaixo-15
+F,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,100,Nao,Ruim,Acima-15
+F,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,14,Sim,Bom,Acima-15
+F,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,6,Nao,Ruim,Acima-15
+F,EnsinoFundamental,OitavoAnoF,Geografia,Primeiro,10,Sim,Ruim,Acima-15
+M,EnsinoFundamental,OitavoAnoF,Portugues,Primeiro,50,Nao,Ruim,Abaixo-15
+M,EnsinoFundamental,OitavoAnoF,Portugues,Primeiro,50,Sim,Ruim,Acima-15
+F,EnsinoFundamental,OitavoAnoF,Portugues,Primeiro,70,Nao,Bom,Acima-15
+F,EnsinoFundamental,OitavoAnoF,Portugues,Primeiro,2,Nao,Ruim,Abaixo-15
+M,EnsinoFundamental,OitavoAnoF,Portugues,Primeiro,1,Nao,Ruim,Abaixo-15
+M,EnsinoFundamental,NovoAnoF,Portugues,Primeiro,0,Nao,Bom,Abaixo-15
+F,EnsinoFundamental,NovoAnoF,Portugues,Primeiro,0,Nao,Bom,Abaixo-15
+F,EnsinoFundamental,NovoAnoF,Portugues,Primeiro,12,Sim,Bom,Acima-15
+M,EnsinoFundamental,NovoAnoF,Portugues,Primeiro,70,Sim,Ruim,Acima-15
+M,EnsinoFundamental,NovoAnoF,Portugues,Primeiro,7,Nao,Ruim,Abaixo-15
+M,EnsinoFundamental,NovoAnoF,Portugues,Primeiro,90,Sim,Ruim,Acima-15
+F,EnsinoFundamental,NovoAnoF,Portugues,Primeiro,70,Nao,Bom,Acima-15
+M,EnsinoFundamental,NovoAnoF,Portugues,Primeiro,77,Sim,Bom,Acima-15
+M,EnsinoFundamental,NovoAnoF,Portugues,Primeiro,2,Sim,Ruim,Abaixo-15
+M,EnsinoFundamental,NovoAnoF,Portugues,Primeiro,25,Sim,Ruim,Abaixo-15
+M,EnsinoFundamental,NovoAnoF,Portugues,Primeiro,11,Sim,Ruim,Abaixo-15
+M,EnsinoFundamental,NovoAnoF,Portugues,Primeiro,0,Sim,Bom,Abaixo-15
+F,EnsinoFundamental,NovoAnoF,Portugues,Primeiro,77,Sim,Bom,Abaixo-15
+F,EnsinoFundamental,NovoAnoF,Portugues,Primeiro,25,Sim,Bom,Acima-15
+F,EnsinoFundamental,NovoAnoF,Portugues,Primeiro,24,Sim,Bom,Abaixo-15
+M,EnsinoFundamental,NovoAnoF,Portugues,Primeiro,60,Sim,Ruim,Acima-15
+M,EnsinoFundamental,NovoAnoF,Portugues,Primeiro,21,Sim,Bom,Acima-15
+M,EnsinoFundamental,NovoAnoF,Educacao Fisica,Primeiro,0,Sim,Ruim,Abaixo-15
+F,EnsinoFundamental,NovoAnoF,Educacao Fisica,Primeiro,66,Nao,Bom,Abaixo-15
+F,EnsinoFundamental,NovoAnoF,Educacao Fisica,Primeiro,70,Nao,Bom,Acima-15
+M,EnsinoFundamental,NovoAnoF,Educacao Fisica,Primeiro,0,Sim,Ruim,Acima-15
+M,EnsinoFundamental,NovoAnoF,Educacao Fisica,Primeiro,12,Nao,Bom,Abaixo-15
+F,EnsinoFundamental,NovoAnoF,Educacao Fisica,Primeiro,2,Sim,Bom,Acima-15
+M,EnsinoFundamental,NovoAnoF,Educacao Fisica,Primeiro,55,Nao,Ruim,Abaixo-15
+M,EnsinoFundamental,NovoAnoF,Educacao Fisica,Primeiro,12,Sim,Ruim,Acima-15
+M,EnsinoFundamental,NovoAnoF,Educacao Fisica,Primeiro,70,Nao,Bom,Acima-15
+F,EnsinoFundamental,NovoAnoF,Educacao Fisica,Primeiro,7,Nao,Ruim,Abaixo-15
+M,EnsinoFundamental,NovoAnoF,Educacao Fisica,Primeiro,80,Nao,Bom,Acima-15
+M,EnsinoFundamental,NovoAnoF,Educacao Fisica,Segundo,0,Sim,Ruim,Abaixo-15
+M,EnsinoFundamental,NovoAnoF,Educacao Fisica,Segundo,12,Nao,Bom,Abaixo-15
+M,EnsinoFundamental,NovoAnoF,Geografia,Segundo,80,Nao,Bom,Acima-15
+F,EnsinoFundamental,NovoAnoF,Geografia,Segundo,70,Sim,Bom,Acima-15
+F,EnsinoMedio,TerceiroAnoEM,Geografia,Segundo,70,Nao,Bom,Acima-15
+F,EnsinoMedio,TerceiroAnoEM,Portugues,Primeiro,60,Sim,Mediano,Acima-15
+F,EnsinoMedio,PrimeiroAnoEM,Portugues,Primeiro,100,Nao,Mediano,Acima-15
+M,EnsinoMedio,PrimeiroAnoEM,Portugues,Primeiro,100,Sim,Mediano,Acima-15
+M,EnsinoMedio,PrimeiroAnoEM,Portugues,Primeiro,10,Nao,Mediano,Abaixo-15
+M,EnsinoMedio,PrimeiroAnoEM,Portugues,Segundo,19,Sim,Mediano,Abaixo-15
+M,EnsinoMedio,PrimeiroAnoEM,Portugues,Segundo,10,Nao,Bom,Acima-15
+M,EnsinoMedio,PrimeiroAnoEM,Portugues,Segundo,80,Sim,Bom,Acima-15
+M,EnsinoMedio,PrimeiroAnoEM,Portugues,Segundo,10,Nao,Mediano,Abaixo-15
+M,EnsinoMedio,PrimeiroAnoEM,Portugues,Segundo,70,Sim,Mediano,Acima-15
+F,EnsinoMedio,PrimeiroAnoEM,Portugues,Segundo,100,Nao,Bom,Acima-15
+F,EnsinoMedio,PrimeiroAnoEM,Educacao Fisica,Segundo,10,Nao,Mediano,Acima-15
+F,EnsinoMedio,PrimeiroAnoEM,Educacao Fisica,Segundo,60,Sim,Mediano,Acima-15
+F,EnsinoMedio,PrimeiroAnoEM,Educacao Fisica,Segundo,100,Nao,Mediano,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Educacao Fisica,Segundo,80,Sim,Bom,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,23,Sim,Bom,Acima-15
+F,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,100,Sim,Mediano,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Ensino Religioso,Segundo,10,Sim,Mediano,Abaixo-15
+M,EnsinoMedio,SegundoAnoEM,Lingua Estrangeira,Segundo,70,Sim,Mediano,Abaixo-15
+M,EnsinoMedio,SegundoAnoEM,Matematica,Segundo,70,Sim,Mediano,Acima-15
+F,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,70,Nao,Bom,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Artes,Segundo,70,Nao,Bom,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Artes,Segundo,22,Nao,Mediano,Abaixo-15
+F,EnsinoMedio,SegundoAnoEM,Artes,Segundo,62,Sim,Bom,Acima-15
+F,EnsinoMedio,SegundoAnoEM,Artes,Segundo,82,Sim,Bom,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Artes,Segundo,72,Sim,Ruim,Acima-15
+F,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,70,Sim,Ruim,Acima-15
+F,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,60,Sim,Ruim,Abaixo-15
+M,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,55,Sim,Bom,Abaixo-15
+F,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,72,Sim,Bom,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,51,Nao,Ruim,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,80,Nao,Bom,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,60,Sim,Bom,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,30,Sim,Ruim,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,40,Sim,Bom,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,60,Sim,Bom,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,20,Sim,Bom,Abaixo-15
+M,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,20,Sim,Bom,Abaixo-15
+F,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,50,Sim,Mediano,Abaixo-15
+M,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,10,Sim,Mediano,Abaixo-15
+M,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,60,Sim,Mediano,Acima-15
+F,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,15,Sim,Mediano,Acima-15
+F,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,80,Sim,Mediano,Acima-15
+M,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,40,Sim,Mediano,Acima-15
+F,EnsinoMedio,SegundoAnoEM,Ciencias,Segundo,60,Nao,Mediano,Acima-15
+M,EnsinoMedio,TerceiroAnoEM,Ciencias,Segundo,50,Nao,Mediano,Abaixo-15
+M,EnsinoMedio,TerceiroAnoEM,Historia,Segundo,85,Nao,Mediano,Acima-15
+F,EnsinoMedio,TerceiroAnoEM,Historia,Segundo,25,Nao,Mediano,Acima-15
+M,EnsinoMedio,TerceiroAnoEM,Historia,Segundo,10,Nao,Mediano,Abaixo-15
+M,EnsinoMedio,TerceiroAnoEM,Historia,Segundo,87,Nao,Bom,Acima-15
+M,EnsinoMedio,TerceiroAnoEM,Historia,Segundo,85,Nao,Bom,Acima-15
+F,EnsinoMedio,TerceiroAnoEM,Historia,Segundo,80,Sim,Bom,Acima-15
+M,EnsinoMedio,TerceiroAnoEM,Historia,Segundo,75,Sim,Bom,Acima-15
+F,EnsinoMedio,TerceiroAnoEM,Historia,Segundo,85,Sim,Mediano,Acima-15
+M,EnsinoMedio,TerceiroAnoEM,Historia,Segundo,23,Sim,Mediano,Acima-15
+M,EnsinoMedio,TerceiroAnoEM,Historia,Segundo,15,Sim,Bom,Abaixo-15
+M,EnsinoMedio,TerceiroAnoEM,Historia,Segundo,95,Sim,Bom,Acima-15
+M,EnsinoMedio,TerceiroAnoEM,Historia,Segundo,81,Sim,Mediano,Acima-15
+M,EnsinoMedio,TerceiroAnoEM,Historia,Segundo,53,Sim,Mediano,Acima-15
+M,EnsinoMedio,TerceiroAnoEM,Historia,Segundo,15,Sim,Bom,Acima-15
+M,EnsinoMedio,TerceiroAnoEM,Historia,Segundo,92,Sim,Bom,Acima-15
+M,EnsinoMedio,TerceiroAnoEM,Historia,Segundo,83,Nao,Mediano,Acima-15
+M,EnsinoMedio,TerceiroAnoEM,Historia,Segundo,27,Nao,Mediano,Abaixo-15
